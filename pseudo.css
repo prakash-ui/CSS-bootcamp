@@ -1,0 +1,29 @@
+a:any-link{
+    color: chocolate;
+
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color:teal;
+}
+a:active{
+    color: gold;
+}
+body{
+    font-size: larger;
+}
+button:hover{
+    color: black;
+    background-color: aquamarine;
+}
+button:active{
+   background-color: brown;
+}
+li:nth-child(even){
+    background-color: aqua;
+}
+li:nth-child(odd){
+    background-color: yellow;
+}

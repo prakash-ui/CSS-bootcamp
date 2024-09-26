@@ -1,0 +1,22 @@
+h1{
+    color: aquamarine;
+}
+
+
+
+#p2{
+    color: black;
+    background-color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 500;
+    text-decoration: double;
+    font-size: 18px;
+}
+
+.even{
+    color: black;
+}
+.odd{
+    color: chocolate;
+}

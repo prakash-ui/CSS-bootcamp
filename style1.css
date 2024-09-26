@@ -1,0 +1,24 @@
+h1{
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: double;
+    border-left-width: 20px;
+    border-right-width: 20px;
+    border-right-style: double;
+    border-right-color: black;
+    border-left-color: black;
+
+}
+p{
+    border-style: outset;
+    border-width: 5px;
+    border-color: gold;
+    border-radius: 10px;
+    padding: 10px ;
+    border-left-style: double;
+    border-right-style: double;
+    border-left-color: gold;
+    border-right-color: gold;
+    border-left-width: 10px;
+    border-right-width: 10px;
+}

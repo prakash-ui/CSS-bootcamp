@@ -1,0 +1,22 @@
+body{
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/659/712/892/sons-of-anarchy-monochrome-wallpaper-preview.jpg');
+
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+body{
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    background: linear-gradient(to right, skyblue,rgb(46, 9, 9));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  
+}
+p{
+    background: linear-gradient(to left,rgb(7, 43, 57),white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
